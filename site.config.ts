@@ -30,29 +30,29 @@ export default {
   isRedisEnabled: false,
 
   pageUrlOverrides: {
-    '/about': 'c9d8729f6e6747a2b92bd370aa1cf84e',
-    '/blog': '90328a1ad2d948cc84f181ef2545942e',
-    '/resume': '6e9a4c5f9aa54350909b77006ec94899',
-    '/contact': 'b0b4bb95b5e54f4087efc4a49897f1ee'
+    '/about': '8eb98015af61496dbe2d452b307da8f8',
+    '/blog': '202c91e8e2ed80fb9edfe24019cefe28',
+    '/resume': 'd68cf42996674c649f41e55f8d0c957a',
+    '/contact': 'bea930ea74ff49d4aaa408b7a18daff6'
   },
 
   navigationStyle: 'custom',
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'c9d8729f6e6747a2b92bd370aa1cf84e'
+      pageId: '8eb98015af61496dbe2d452b307da8f8'
     },
     {
       title: 'Blog',
-      pageId: '90328a1ad2d948cc84f181ef2545942e'
+      pageId: '202c91e8e2ed80fb9edfe24019cefe28'
     },
     {
       title: 'Resume',
-      pageId: '6e9a4c5f9aa54350909b77006ec94899'
+      pageId: 'd68cf42996674c649f41e55f8d0c957a'
     },
     {
       title: 'Contact',
-      pageId: 'b0b4bb95b5e54f4087efc4a49897f1ee'
+      pageId: 'bea930ea74ff49d4aaa408b7a18daff6'
     }
   ]
 }
