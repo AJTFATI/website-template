@@ -1,7 +1,7 @@
 import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
-  rootNotionPageId: '202c91e8e2ed80798836f1adbb16ec7b', // Home page
+  rootNotionPageId: '218c91e8e2ed803e82b9cef888b438c0', // Home page
 
   rootNotionSpaceId: null,
 
