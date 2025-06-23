@@ -13,6 +13,8 @@ export interface SiteConfig {
   twitter?: string
   github?: string
   linkedin?: string
+  Instagram?: string
+  tiktok?: string
   newsletter?: string
   youtube?: string
   zhihu?: string
