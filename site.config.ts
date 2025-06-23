@@ -13,7 +13,7 @@ export default siteConfig({
 
   linkedin: 'alexanderjordantaylor',
 github: 'ajtfati',
-instagram: 'alexanderjrodantaylor',
+instagram: 'alexanderjordantaylor',
   
   
   
