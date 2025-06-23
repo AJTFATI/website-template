@@ -113,7 +113,13 @@
 .linkedin:hover {
   color: #0077b5;
 }
+.instagram {
+  background-color: #e1306c;
+}
 
+.tiktok {
+  background-color: #010101;
+}
 .newsletter:hover {
   color: #777777;
 }
