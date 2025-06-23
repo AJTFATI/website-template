@@ -14,7 +14,7 @@ export default siteConfig({
   linkedin: 'alexanderjordantaylor',
 github: 'ajtfati',
 instagram: 'alexanderjordantaylor',
-  
+  tiktok: 'praecellens',
   
   
 
