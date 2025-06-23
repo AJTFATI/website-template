@@ -1,1 +1,43 @@
+.pageSocial {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: fixed;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
+
+.action {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+  color: white;
+  background-color: gray;
+}
+
+.action:hover {
+  transform: scale(1.1);
+}
+
+.twitter { background-color: #1da1f2; }
+.github { background-color: #333; }
+.linkedin { background-color: #0077b5; }
+.instagram {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+}
+.tiktok { background-color: #010101; }
+.youtube { background-color: #ff0000; }
+.newsletter { background-color: #ff5f00; }
 
