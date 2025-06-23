@@ -11,9 +11,12 @@ export default siteConfig({
   description:
     'Digital strategist and creative storyteller specializing in media, PR, and identity. Powered by clarity, built for impact.',
 
-  linkedin: 'alexanderjtaylor',
+  linkedin: 'alexanderjordantaylor',
 github: 'ajtfati',
-
+instagram: 'alexanderjrodantaylor',
+  
+  
+  
 
   twitter: null,
   newsletter: null,
