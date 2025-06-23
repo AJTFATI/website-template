@@ -1,1 +1,45 @@
 
+// components/icons/IconLinkedIn.tsx
+export function IconLinkedIn(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <path d="M4.98 3.5C4.98 5 3.9 6 2.5 6S0 5 0 3.5 1.08 1 2.5 1s2.48 1 2.48 2.5zM0 24V7h5v17H0zm7.5-17h4.8v2.2c.7-1.3 2.6-2.2 4.3-2.2 4.1 0 5.2 2.7 5.2 6.3V24h-5v-8.4c0-2-.1-4.5-2.8-4.5-2.8 0-3.2 2.2-3.2 4.3V24h-5V7z"/>
+    </svg>
+  )
+}
+
+// components/icons/IconInstagram.tsx
+export function IconInstagram(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <path d="M7.75 2A5.75 5.75 0 002 7.75v8.5A5.75 5.75 0 007.75 22h8.5A5.75 5.75 0 0022 16.25v-8.5A5.75 5.75 0 0016.25 2h-8.5zM12 7a5 5 0 110 10 5 5 0 010-10zm0 1.5a3.5 3.5 0 100 7 3.5 3.5 0 000-7zM17.5 6a1 1 0 110 2 1 1 0 010-2z"/>
+    </svg>
+  )
+}
+
+// components/icons/IconTikTok.tsx
+export function IconTikTok(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 256 256" fill="currentColor" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <path d="M232 72a72.1 72.1 0 01-40-12v64a72 72 0 11-72-72h24V24h48a48 48 0 0040 48zM96 200a32 32 0 1032-32V104h-8a40 40 0 000 80z" />
+    </svg>
+  )
+}
+
+// components/icons/IconGitHub.tsx
+export function IconGitHub(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <path d="M12 .5A12 12 0 000 12.4c0 5.3 3.4 9.7 8.2 11.3.6.1.8-.3.8-.6v-2.2c-3.3.7-4-.8-4-1.5 0-.4-.3-.9-.8-1.1-1-.7 0-.7.1-.7 1.2.1 1.8 1.2 2 1.6 1.4 2.4 3.6 1.7 4.5 1.3.1-1 .6-1.7 1.1-2-3.1-.4-6.3-1.6-6.3-7a5.5 5.5 0 011.4-3.9c-.1-.4-.6-2.2.1-4.6 0 0 1.2-.4 4 1.5a13.8 13.8 0 017.4 0c2.8-1.9 4-1.5 4-1.5.7 2.4.2 4.2.1 4.6a5.5 5.5 0 011.4 3.9c0 5.5-3.2 6.6-6.3 7 .6.5 1.2 1.5 1.2 3v4.5c0 .3.2.7.8.6A12 12 0 0012 .5z" />
+    </svg>
+  )
+}
+
+// components/icons/IconYouTube.tsx
+export function IconYouTube(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <path d="M10 15l5.2-3-5.2-3v6zm12-3c0-2.2-.2-4.4-.8-6.5-.3-1.2-1.2-2.1-2.3-2.4C16.4 3.3 12 3 12 3s-4.4.3-6.9.9c-1.1.3-2 1.2-2.3 2.4-.6 2.1-.8 4.3-.8 6.5s.2 4.4.8 6.5c.3 1.2 1.2 2.1 2.3 2.4 2.5.6 6.9.9 6.9.9s4.4-.3 6.9-.9c1.1-.3 2-1.2 2.3-2.4.6-2.1.8-4.3.8-6.5z" />
+    </svg>
+  )
+}
