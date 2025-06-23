@@ -13,10 +13,4 @@
     "jsx-a11y/interactive-supports-focus": "off",
     "jsx-a11y/anchor-is-valid": "off",
     "@typescript-eslint/naming-convention": "off"
-    // .eslintrc.js
-module.exports = {
-  extends: ['next', 'next/core-web-vitals'],
-}
-
-  }
 }
