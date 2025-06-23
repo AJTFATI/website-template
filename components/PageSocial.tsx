@@ -68,7 +68,6 @@ config.instagram && {
   )
 }
 
-  },
   config.tiktok && {
     name: 'tiktok',
     href: `https://www.tiktok.com/@${config.tiktok}`,
