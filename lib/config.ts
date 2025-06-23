@@ -63,6 +63,18 @@ export const instagram: string | null = getSiteConfig('instagram', null)
 export const tiktok: string | null = getSiteConfig('tiktok', null)       
 export const newsletter: string | null = getSiteConfig('newsletter', null)
 export const zhihu: string | null = getSiteConfig('zhihu', null)
+export const config = {
+  twitter,
+  github,
+  linkedin,
+  instagram,
+  tiktok,
+  youtube,
+  mastodon,
+  newsletter,
+  zhihu
+}
+
 
 export const getMastodonHandle = (): string | null => {
   if (!mastodon) {
