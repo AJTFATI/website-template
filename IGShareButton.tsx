@@ -1,12 +1,10 @@
-import styles from './styles.module.css'
-
 export function InstagramCorner() {
   return (
     <a
-      href="https://instagram.com/yourhandle" // 👈 string, not boolean
+      href="https://instagram.com/alexanderjordantaylor" // 
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="View my Instagram" // 👈 this must be a string
+      aria-label="View my Instagram"
       style={{
         position: 'absolute',
         top: 0,
