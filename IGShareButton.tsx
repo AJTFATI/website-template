@@ -1,7 +1,7 @@
 export function InstagramCorner() {
   return (
     <a
-      href="https://instagram.com/alexanderjordantaylor" // 
+      href="https://instagram.com/alexanderjordantaylor"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="View my Instagram"
